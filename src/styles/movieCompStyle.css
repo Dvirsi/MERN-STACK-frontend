@@ -1,0 +1,16 @@
+.imageAndTitle {
+    display: flex;
+}
+
+.movieDetatils {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 70px;
+    margin-bottom: 30px;
+}
+
+.moviesComp {
+    padding-left: 15px;
+}
